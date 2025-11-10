@@ -129,7 +129,7 @@ I created a Looker Studio dashboard to track retailer partnership health and per
 **[View Live Dashboard](https://lookerstudio.google.com/reporting/c1096e68-96ab-42f1-8a48-9d77fbc4cf6e)**
 
 ![Retailer Performance Dashboard](dashboard/retailer_dashboard.png)
-*Screenshot of the retailer performance dashboard showing key metrics and performance tiers*]*
+*Screenshot of the retailer performance dashboard showing key metrics and performance tiers*
 
 ---
 
